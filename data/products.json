@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "title": "Телевизор Samsung",
+    "price": 49999,
+    "description": "4K UHD Smart TV",
+    "categories": [
+      "Электроника",
+      "Бытовая техника"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Ноутбук Lenovo",
+    "price": 74999,
+    "description": "Легкий и мощный ультрабук",
+    "categories": [
+      "Электроника"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Смартфон Xiaomi",
+    "price": 19999,
+    "description": "Флагман по доступной цене",
+    "categories": [
+      "Электроника",
+      "Мобильные устройства"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Холодильник LG",
+    "price": 39999,
+    "description": "Большой холодильник с морозильной камерой",
+    "categories": [
+      "Бытовая техника"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Пылесос Philips",
+    "price": 8999,
+    "description": "Мощный пылесос с HEPA фильтром",
+    "categories": [
+      "Бытовая техника",
+      "Умный дом"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Телевизор",
+    "price": 100000,
+    "description": "крутой телевизор",
+    "categories": [
+      "телевизор"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "чайник",
+    "price": 2000,
+    "description": "крутой чайник",
+    "categories": [
+      "эллектроника"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "чайник2",
+    "price": 10000,
+    "description": "ыва",
+    "categories": [
+      "ываыва"
+    ]
+  }
+]
